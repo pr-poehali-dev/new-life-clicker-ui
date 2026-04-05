@@ -20,6 +20,7 @@ export default {
       fontFamily: {
         nunito: ["Nunito", "sans-serif"],
         "nunito-sans": ["Nunito Sans", "sans-serif"],
+        sans: ["Nunito", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
